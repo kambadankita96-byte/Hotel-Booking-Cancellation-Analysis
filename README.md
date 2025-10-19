@@ -15,6 +15,7 @@ The main goal of this project is to analyze hotel booking data to understand gue
 7.	What can hotels do in busy months to reduce cancellations and no-shows?
 8.	Are some guest types more likely to cancel at certain times of year?
 9.	How do room type and booking outcome (check-out, cancel, no-show) connect for each guest type and hotel?
+
 -<a href="https://github.com/kambadankita96-byte/Hotel-Booking-Cancellation-Analysis/blob/main/Screenshot%202025-10-18%20215518.png">View Dashboard</a>
 
 ## Process
