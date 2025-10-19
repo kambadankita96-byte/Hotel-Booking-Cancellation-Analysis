@@ -3,7 +3,6 @@
 The main goal of this project is to analyze hotel booking data to understand guest behaviour, booking trends, and cancellation patterns. This analysis helps hotel management make informed decisions regarding customer preferences, room assignments, and seasonal demand.
 ## Dataset Used:
 -<a href="https://github.com/kambadankita96-byte/Hotel-Booking-Cancellation-Analysis/blob/main/hotel_booking.csv"> Dataset</a>
-Why are there more family bookings than couple or single bookings?
 ## Questions
 1.	Which month has the most cancellations, and why?
 2.	Does guest type affect cancellations or no-shows for city vs resort hotels?
