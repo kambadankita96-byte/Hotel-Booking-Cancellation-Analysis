@@ -2,4 +2,4 @@
 ## Objective
 The main goal of this project is to analyze hotel booking data to understand guest behaviour, booking trends, and cancellation patterns. This analysis helps hotel management make informed decisions regarding customer preferences, room assignments, and seasonal demand.
 ## Dataset Used:
--<a href="https://github.com/kambadankita96-byte/Hotel-Booking-Cancellation-Analysis/blob/main/hotel_booking.csv"> Dtaset</a>
+-<a href="https://github.com/kambadankita96-byte/Hotel-Booking-Cancellation-Analysis/blob/main/hotel_booking.csv"> Dataset</a>
