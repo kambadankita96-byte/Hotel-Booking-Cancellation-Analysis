@@ -23,5 +23,7 @@ The main goal of this project is to analyze hotel booking data to understand gue
 5.	Analyze results to help hotels make better decisions.
 ## Dashboard
 <img width="1313" height="535" alt="Screenshot 2025-10-18 215518" src="https://github.com/user-attachments/assets/fe3cfc11-7455-4c8f-8d90-aebfd9f758a5" />
+## Conclusion
+- This dashboard helps hotels quickly see booking and cancellation patterns with easy charts. Staff can spot problems or busy times fast. It helps them make better decisions and keep guests happy. Simple visuals save time and make work easier. In the end, hotels work better and guests enjoy their stay more.
 
 
